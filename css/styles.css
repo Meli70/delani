@@ -2,14 +2,22 @@
   background-image: url(../images/assets/backgrounds/h_img.jpg);
   text-align: center;
   color: white;
+  background-size: 100%;
+  padding: 140px;
 
 }
 .about{
   text-align: center;
+  padding: 50px;
 
 }
 .services{
   text-align: center;
+  padding: 50px;
+  position: relative;
+}
+.services-text{
+  margin-bottom: 15%;
 }
 .whatwedo{
   text-align: center;
@@ -21,4 +29,9 @@
 .cont{
   text-align: center;
 }
-
+.footer {
+  text-align: center;
+}
+body{
+  margin: 0px;
+}
