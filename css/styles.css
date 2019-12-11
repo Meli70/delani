@@ -19,6 +19,9 @@
 .services-text{
   margin-bottom: 15%;
 }
+.form1{
+  margin-bottom: 15%;
+}
 .whatwedo{
   text-align: center;
 }
@@ -27,11 +30,12 @@
   
 }
 .cont{
-  text-align: center;
+  position: relative;
 }
 .footer {
   text-align: center;
 }
 body{
   margin: 0px;
+  overflow-x: hidden;
 }
